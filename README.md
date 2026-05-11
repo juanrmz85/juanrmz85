@@ -1,4 +1,4 @@
-# juanrmz.github.io
+# Juan César Ramírez Carrasco
 Industrial Engineer | Data Analyst | In process | Developing technical skills as a data analyst 
 
 # 💫 About Me:
