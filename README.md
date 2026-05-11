@@ -13,24 +13,30 @@ Industrial Engineer with 15 years of experience in quality, manufacturing, plann
 
 # 📊 Projects:
 Urban Mobility and Economic Productivity Data Analysis | TripleTen Bootcamp (2026)
+
 Description:
 I performed data exploration, cleaning, and preparation, including extraction, filtering, and statistical calculations. I executed table joins and pattern analysis using visualization tools, concluding with an executive summary of the project.
+
 Tools: 
 Python | Pandas | NumPy | Matplotlib | Seaborn
 
 Link: https://github.com/juanrmz85/Mobilidad-Urbana
 
 Sales Data Analysis | TripleTen Bootcamp (2026)
+
 Description:
 I performed data exploration, cleaning, and preparation, including the creation of business metrics, interactive dashboards, and an executive summary based on a retail chain's sales database.
+
 Tools: 
 Spreadsheets | Pivot Tables | Dashboards
 
 Link: https://github.com/juanrmz85/Analisis-Ventas
 
 Contract Data Analysis | BEDU Bootcamp (2022)
+
 Description:
 I conducted data cleaning and Exploratory Data Analysis (EDA) on a large-scale Federal Government contract database.
+
 Tools: 
 Python | Pandas | NumPy
 
